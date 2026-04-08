@@ -31,3 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
+# Chặn các thư mục tạm của Spring Boot Web Tool
+spring-boot-web-*
